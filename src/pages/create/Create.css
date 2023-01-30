@@ -1,0 +1,67 @@
+.create {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.create form {
+  width: 90%;
+  margin: 0 auto;
+  border: 2px solid #fc0303;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+}
+
+.create form label {
+  width: 100%;
+  padding: 10px;
+}
+
+.genre {
+  display: flex;
+  gap: 10px;
+
+  justify-content: center;
+}
+
+.genre .form-input1 {
+  width: 60%;
+  height: 35px;
+  background-color: #fc0303;
+  color: #fff;
+}
+
+.genre button {
+  height: 35px;
+}
+
+.create form label .form-input {
+  width: 80%;
+  height: 35px;
+  background-color: #fc0303;
+  color: #fff;
+}
+
+.create form label .form-textarea {
+  width: 80%;
+  height: 150px;
+  background-color: #fc0303;
+  color: #fff;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.create form label input::placeholder,
+.create form label textarea::placeholder {
+  color: #e8e8e8;
+}
+
+.create form button {
+  margin-bottom: 10px;
+  background-color: #fc0303;
+  color: #e8e8e8;
+}

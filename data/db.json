@@ -1,0 +1,54 @@
+{
+  "library": [
+    {
+      "id": "1",
+      "small": "/images/1-small.png",
+      "large": "/images/1-large.png",
+      "title": "Resident Evil Village",
+      "route": "ResidentEvilVillage",
+      "genre": ["action", "horror survival"],
+      "release": "6 May, 2021",
+      "info": "Experience survival horror like never before in the 8th major installment in the Resident Evil franchise - Resident Evil Village. With detailed graphics, intense first-person action and masterful storytelling, the terror has never felt more realistic."
+    },
+    {
+      "id": "2",
+      "small": "/images/2-small.png",
+      "large": "/images/2-large.png",
+      "title": "The Last of Us™ Part I",
+      "route": "TheLastofUs™PartI",
+      "genre": ["action", "horror survival"],
+      "release": "2 Sep, 2022",
+      "info": "Experience the emotional storytelling and unforgettable characters in The Last of Us, winner of over 200 Game of the Year awards. In a ravaged civilisation, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey."
+    },
+    {
+      "id": "3",
+      "small": "/images/3-small.png",
+      "large": "/images/3-large.png",
+      "title": "Grand Theft Auto V",
+      "route": "GrandTheftAutoV",
+      "genre": ["action", "Open World"],
+      "release": "14 Apr, 2015",
+      "info": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second."
+    },
+    {
+      "id": "4",
+      "small": "/images/4-small.png",
+      "large": "/images/4-large.png",
+      "title": "Red Dead Redemption 2",
+      "route": "RedDeadRedemption2",
+      "genre": ["action", "Open World"],
+      "release": "5 Dec, 2019",
+      "info": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online"
+    },
+    {
+      "id": "5",
+      "small": "/images/5-small.png",
+      "large": "/images/5-large.png",
+      "title": "God of War",
+      "route": "GodofWar",
+      "genre": ["action", "adventure"],
+      "release": "14 Jan, 2022",
+      "info": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same."
+    }
+  ]
+}
